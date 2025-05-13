@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# About me 🌏
+Software Engineer💻📈
 <!--
 **Gordon0104/Gordon0104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
